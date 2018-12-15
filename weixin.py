@@ -1,6 +1,6 @@
 import requests
 import itchat
-
+#图灵机器人的key值
 KEY =   '83b0f44161e24aff8db6deae9981f778'
 
 def get_response(msg):
